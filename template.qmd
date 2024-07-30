@@ -1,0 +1,40 @@
+---
+title: Título do Relatório
+sutitle: Subtítulo
+abstract: |
+  Resumo opcional do relatório ("abstract"). O Resumo oferece uma visão geral concisa e clara dos principais pontos do trabalho, permitindo ao leitor compreender rapidamente o conteúdo e os objetivos da pesquisa sem precisar ler o documento inteiro. Um bom resumo deve conter informações suficientes para que o leitor possa avaliar a relevância do estudo para seus próprios interesses e determinar se deve ler o trabalho completo.
+authors:
+  - name: Nome e Sobrenome Completo
+    corresponding: true
+    email: nome.sobrenomeh@saude.gov.br
+    roles: Autor
+    affiliations: MS
+contract: Nome do Contrato
+project: Nome do Projeto
+product: Produto 1
+lang: pt-br
+date: last-modified
+
+citation:
+  type: article-journal
+  container-title: Relatórios Desid
+  volume: 24
+  issue: 7
+  issued: 2024-07
+  # issn: 1539-9087
+  # doi: 10.1145/3514174
+format:
+  desid_report-typst: default
+
+---
+
+## Introdução
+
+*TODO* Create an example file that demonstrates the formatting and features of your format.
+
+## Mais informações
+
+You can learn more about creating custom Typst templates here: 
+
+<https://quarto.org/docs/prerelease/1.4/typst.html#custom-formats>
+
