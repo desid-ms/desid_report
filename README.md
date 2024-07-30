@@ -2,10 +2,8 @@
 
 ## Installing
 
-_TODO_: Replace the `<github-organization>` with your GitHub organization.
-
 ```bash
-quarto use template <github-organization>/desid_report
+quarto use template desid-ms/desid_report
 ```
 
 This will install the format extension and create an example qmd file
